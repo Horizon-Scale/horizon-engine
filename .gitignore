@@ -1,0 +1,11 @@
+# CMAKE caches
+BUILD/
+build/
+out/
+OUT/
+
+# Visual Studio cache
+.vs/
+
+# Visual Studio Code cache
+.vscode/
