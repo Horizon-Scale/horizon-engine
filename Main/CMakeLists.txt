@@ -8,3 +8,6 @@ if(_HORIZON_WIN32)
 else()
     add_executable(horizon-engine ${SOURCES})
 endif()
+
+
+target_link_libraries(horizon-engine horizon-engine_Platforms)
